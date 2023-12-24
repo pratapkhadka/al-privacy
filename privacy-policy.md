@@ -7,7 +7,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy.
 The app does use third-party services that may collect information used to identify you.
 Link to the privacy policy of third-party service providers used by the app
-[•	Google Play Services] (https://policies.google.com/privacy)
+[•	Google Play Services](https://policies.google.com/privacy)
 ### Log Data
 We want to inform you that whenever you use our Service, in case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
 ### Cookies
